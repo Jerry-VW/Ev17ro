@@ -6,10 +6,29 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		C44F4EE71EDFA5F300BB7FB3 /* app.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = app.c; sourceTree = "<group>"; };
+		C44F4EE81EDFA5F300BB7FB3 /* app.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = app.cfg; sourceTree = "<group>"; };
+		C44F4EE91EDFA5F300BB7FB3 /* app.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = app.h; sourceTree = "<group>"; };
+		C44F4EEA1EDFA5F300BB7FB3 /* balancer_param.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = balancer_param.c; sourceTree = "<group>"; };
+		C44F4EEB1EDFA5F300BB7FB3 /* balancer_private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = balancer_private.h; sourceTree = "<group>"; };
+		C44F4EEC1EDFA5F300BB7FB3 /* balancer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = balancer.c; sourceTree = "<group>"; };
+		C44F4EED1EDFA5F300BB7FB3 /* balancer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = balancer.h; sourceTree = "<group>"; };
+		C44F4EEE1EDFA5F300BB7FB3 /* Makefile.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = Makefile.inc; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		C44F4EB41EDFA25C00BB7FB3 = {
 			isa = PBXGroup;
 			children = (
+				C44F4EE71EDFA5F300BB7FB3 /* app.c */,
+				C44F4EE81EDFA5F300BB7FB3 /* app.cfg */,
+				C44F4EE91EDFA5F300BB7FB3 /* app.h */,
+				C44F4EEA1EDFA5F300BB7FB3 /* balancer_param.c */,
+				C44F4EEB1EDFA5F300BB7FB3 /* balancer_private.h */,
+				C44F4EEC1EDFA5F300BB7FB3 /* balancer.c */,
+				C44F4EED1EDFA5F300BB7FB3 /* balancer.h */,
+				C44F4EEE1EDFA5F300BB7FB3 /* Makefile.inc */,
 			);
 			sourceTree = "<group>";
 		};
